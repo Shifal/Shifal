@@ -1,141 +1,250 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Syed%20Shifal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20|%20Fintech%20%26%20E-Commerce%20Systems&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,25,29&height=250&section=header&text=SYED%20SHIFAL&fontSize=70&fontColor=00ff9c&animation=twinkling&fontAlignY=35&desc=%3C%20Backend%20Developer%20/%2F%20Systems%20that%20don't%20fall%20over%20%3E&descAlignY=55&descSize=20"/>
 
+</div>
+
+<div align="center">
+
+```
+   _____                _   _____ _     _  __       _ 
+  / ____|              | | / ____| |   (_)/ _|     | |
+ | (___  _   _  ___  __| || (___ | |__  _| |_ __ _ | |
+  \___ \| | | |/ _ \/ _` | \___ \| '_ \| |  _/ _` || |
+  ____) | |_| |  __/ (_| | ____) | | | | | || (_| ||_|
+ |_____/ \__, |\___|\__,_||_____/|_| |_|_|_| \__,_|(_)
+          __/ |                                        
+         |___/     > booting backend_dev.exe...        
+```
+
+</div>
+
+<p align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Building+scalable+backends+that+don't+break+at+3+AM+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+Node.js+%7C+PostgreSQL+%7C+AWS;2%2B+Years+shipping+Loan%2C+Payment+%26+E-Commerce+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=24&duration=2500&pause=700&color=00FF9C&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%24+whoami+%E2%86%92+Backend+Developer+%40+Bengaluru;%24+stack+%E2%86%92+Java+%2F+Spring+Boot+%2F+Node.js+%2F+PostgreSQL+%2F+AWS;%24+status+%E2%86%92+Shipping+fintech+%26+e-commerce+APIs+since+2023;%24+uptime+%E2%86%92+99.9%25+(the+0.1%25+was+a+Friday+deploy)" alt="Typing SVG"/>
 </a>
+</p>
 
-<br/>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=Shifal&label=Profile%20Views&color=00c6ff&style=for-the-badge" alt="profile views"/>
-<a href="https://github.com/Shifal?tab=followers"><img src="https://img.shields.io/github/followers/Shifal?label=Followers&style=for-the-badge&color=2c5364" alt="followers"/></a>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Shifal&label=PROFILE%20VIEWS&color=00ff9c&style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/github/followers/Shifal?label=FOLLOWERS&style=for-the-badge&color=00ff9c&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff9c?style=for-the-badge&labelColor=0D1117"/>
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=4000&pause=1000&color=8B949E&center=true&width=700&lines=%22It+works+on+my+machine%22+-+me%2C+every+single+time;99+little+bugs+in+the+code%2C+99+little+bugs...)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### 🧑‍💻 About Me
+## 🧬 System.out.println("About Me")
 
-```yaml
-name: Syed Shifal
-role: Backend Developer
-location: Bengaluru, India
-experience: 2+ years
-focus: [Fintech, E-Commerce, Microservices, Payment Systems]
-currently_building: REST APIs & carrier integrations @ Reach India
-previously_built: Loan Origination (LOS) & Loan Management (LMS) platforms
-fun_fact: I debug production issues faster than I debug my sleep schedule 😅
+<table>
+<tr>
+<td width="60%">
+
+```javascript
+const syedShifal = {
+    role: "Backend Developer",
+    location: "Bengaluru, India 🇮🇳",
+    experience: "2+ years",
+    currentGig: "API Developer @ Reach India",
+    domains: ["Fintech", "E-Commerce", "Loan Management"],
+    
+    codeI♥: () => {
+        return [
+            "Microservices that don't collapse under load",
+            "APIs so clean they document themselves",
+            "3AM production fires (extinguished solo)"
+        ];
+    },
+    
+    currentFocus: "Scalable payment & loan systems",
+    funFact: "Debugged 10,000+ lines. Slept through 0 alarms. Wait, reverse that."
+};
 ```
 
-- 🏦 Built **Loan Origination & Management (LOS/LMS)** systems handling onboarding, approvals & customer lifecycle
-- 💳 Integrated **UPI, BBPS, AEPS, IMPS** & banking APIs for digital payment collection
-- 📦 Shipped **e-commerce REST APIs** with carrier integrations for shipping & fulfillment
-- 🔐 Deep experience with **JWT, OAuth2, Keycloak** for secure authentication
-- ⚡ Performance tuning PostgreSQL — query optimization, indexing, schema design
-- ☁️ Cloud-native workflows using **AWS Lambda & S3**
+</td>
+<td width="40%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shifal&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🛠️ Tech Stack
+## ⚡ What I Ship
 
 <div align="center">
 
-**Languages & Core**
-<br/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-**Backend & Frameworks**
-<br/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-
-**Frontend**
-<br/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-
-**Databases & Messaging**
-<br/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-
-**Cloud, DevOps & Tools**
-<br/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-<img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+| 🏦 Fintech | 📦 E-Commerce | 🔐 Security |
+|:---:|:---:|:---:|
+| Loan Origination (LOS) & Management (LMS) | REST APIs for order/inventory/fulfillment | JWT, OAuth2, Keycloak |
+| UPI · BBPS · AEPS · IMPS integrations | Canadian carrier tracking APIs | Auth & authorization layers |
+| Payment reconciliation workflows | Swagger-documented contracts | Secure microservice comms |
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Arsenal
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Shifal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shifal&theme=tokyonight&hide_border=true" width="48%"/>
+
+<img src="https://skillicons.dev/icons?i=java,js,nodejs,spring,express,react,redux,postgres,mysql,mongodb,redis,rabbitmq,aws,docker,jenkins,git,postman,swagger&theme=dark" />
+
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shifal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shifal&theme=tokyo-night&hide_border=true" width="48%"/>
-</div>
 
----
+![](https://img.shields.io/badge/-Currently%20exploring-0D1117?style=for-the-badge)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shifal&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </div>
 
 ---
 
-### 🐍 Contribution Snake
+## 📊 The Numbers Don't Lie
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Shifal/Shifal/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shifal&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&include_all_commits=true&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shifal&theme=dark&hide_border=true&background=0D1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" width="49%"/>
 </div>
 
-> ⚙️ **Setup note:** The snake animation needs a one-time GitHub Actions setup (it's not automatic). See the "Making the snake and views widgets actually work" section below.
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shifal&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00ff9c&text_color=c9d1d9&langs_count=10" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shifal&theme=react-dark&bg_color=0D1117&color=00ff9c&line=00ff9c&point=ffffff&hide_border=true" width="49%"/>
+</div>
+
+<div align="center">
+
+### 🌌 3D Contribution Universe
+
+<img src="https://raw.githubusercontent.com/Shifal/Shifal/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+
+<sub>⚙️ generated via <code>yoshi389111/github-profile-3d-contrib</code> action — setup below</sub>
+
+</div>
 
 ---
 
-### 💼 Experience Timeline
+## 🏆 Trophy Cabinet
 
-```
-2025 - Present   →  API Developer @ Reach India (E-commerce, REST APIs, Carrier integrations)
-2023 - 2025      →  Associate Software Developer @ New Street Tech (LOS/LMS, Payment Systems)
-2023             →  Engineering Intern (Loan tracking dashboard, JWT auth)
-```
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Shifal&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=15"/>
+</div>
 
 ---
 
-### 📫 Connect With Me
+## 🐍 The Snake That Ate My Commits
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Shifal/Shifal/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+---
+
+## 📈 Deep Metrics Dashboard
+
+<div align="center">
+<img src="https://metrics.lowlighter.fr/merge/Shifal?template=classic&base=header,activity,community,repositories,metadata&config.timezone=Asia/Kolkata&activity.limit=5&achievements=true&achievements.threshold=C&isocalendar=true&isocalendar.duration=full-year&base.header.style=terminal" width="100%"/>
+</div>
+
+<sub>⚙️ Rich dashboard generated via <code>lowlighter/metrics</code> GitHub Action — setup below</sub>
+
+---
+
+## 💼 Career Log
+
+<details open>
+<summary><b>08/2025 – Present │ API Developer @ Reach India</b></summary>
+<br/>
+
+- Developed REST APIs (Java, Spring Boot) for an e-commerce platform — order, inventory, shipping, fulfillment
+- Integrated Canadian carrier APIs for label generation & package tracking
+- Optimized PostgreSQL (indexing, query tuning) → faster product/inventory response times
+- Implemented JWT auth/authz to secure customer & order APIs
+- Maintained API contracts & Swagger docs with frontend team
+
+</details>
+
+<details>
+<summary><b>08/2023 – 04/2025 │ Associate Software Developer @ New Street Tech</b></summary>
+<br/>
+
+**Loan Origination & Management System (LOS/LMS)**
+- Built onboarding, approval workflow & customer lifecycle modules
+- Backend services: Node.js, Express.js, PostgreSQL, Redis, RabbitMQ, Keycloak, Socket.io, HashiCorp Vault
+- Async messaging via RabbitMQ + Redis caching for responsiveness
+- AWS Lambda + S3 for document processing & storage
+
+**Collection Management System (CMS)**
+- Payment collection & reconciliation workflows
+- Integrated UPI, BBPS, AEPS, IMPS & banking APIs
+- MEAN stack feature development
+
+</details>
+
+<details>
+<summary><b>02/2023 – 08/2023 │ Engineering Intern</b></summary>
+<br/>
+
+- Built real-time loan tracking & analytics dashboard
+- REST APIs + optimized data retrieval for reporting
+- JWT auth + Field Officer performance tracking
+
+</details>
+
+---
+
+## 🎖️ Certifications
+
+<div align="center">
+
+![Blockchain](https://img.shields.io/badge/Blockchain%20Boot%20Camp-00ff9c?style=for-the-badge&labelColor=0D1117)
+![Sybgen](https://img.shields.io/badge/Sybgen%202019-00ff9c?style=for-the-badge&labelColor=0D1117)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure%20Fundamentals-00ff9c?style=for-the-badge&logo=microsoftazure&labelColor=0D1117)
+
+</div>
+
+---
+
+## 📫 Ping Me
 
 <div align="center">
 
 <a href="mailto:shifal643@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/shifal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Shifal"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="tel:+917349420412"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+<div align="center">
+
+### 💬 Random Dev Wisdom
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="450"/>
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,25,29&height=150&section=footer"/>
+
+<sub>⭐ If my code has ever saved your production server, drop a star somewhere. It's basically the developer version of a thank-you card.</sub>
 
 </div>
