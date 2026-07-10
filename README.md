@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9FF&height=220&section=header&text=Syed%20Shifal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Fintech%20%26%20E-commerce%20Systems&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=220&section=header&text=Syed%20Shifal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Fintech%20%26%20E-commerce%20Systems&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00C9FF&center=true&vCenter=true&width=700&lines=Building+scalable+APIs+%26+microservices;2%2B+years+in+fintech+%2B+e-commerce+backend;Java+%C2%B7+Spring+Boot+%C2%B7+Node.js+%C2%B7+PostgreSQL+%C2%B7+AWS;Now+leveling+up+in+Python+%2B+AI+%2F+LLMs;Let's+build+something+that+scales+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -116,6 +116,6 @@ philosophy: "Ship secure, ship fast, ship it so it scales."
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:0F2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer" width="100%"/>
 
 </div>
