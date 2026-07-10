@@ -79,19 +79,6 @@ philosophy: "Ship secure, ship fast, ship it so it scales."
 
 <br/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shifal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shifal&theme=radical&hide_border=true&background=0D1117&ring=00C9FF&fire=FF6B6B&currStreakLabel=00C9FF" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shifal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C9FF" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shifal&theme=radical&no-frame=true&row=1&column=6&margin-w=10"/>
-
-</div>
-
 <br/>
 
 ## 🐍 Contribution Snake
@@ -100,19 +87,13 @@ philosophy: "Ship secure, ship fast, ship it so it scales."
 
 <img src="https://raw.githubusercontent.com/Shifal/Shifal/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
-<sub>⚙️ Animates itself weekly — one-time setup needed, see below</sub>
-
 </div>
 
 <br/>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Shifal&style=for-the-badge&color=00C9FF&label=PROFILE+VIEWS"/>
-
-<br/><br/>
-
-<i>💼 Open to Backend / Full-Stack roles — building reliable systems, now with an AI edge.</i>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1200&color=00C9FF&center=true&vCenter=true&width=750&lines=Turning+coffee+and+curiosity+into+production+code;Fintech-grade+backends%2C+startup-speed+delivery;Next+stop%3A+AI-native+backend+systems" alt="Closing Typing SVG"/>
 
 <br/><br/>
 
